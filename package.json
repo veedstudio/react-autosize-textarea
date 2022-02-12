@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/buildo/react-autosize-textarea.git"
+    "url": "https://github.com/veedstudio/react-autosize-textarea.git"
   },
   "keywords": [
     "react",
@@ -30,7 +30,7 @@
   "author": "Francesco Cioria <francesco@buildo.io>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/buildo/react-autosize-textarea/issues"
+    "url": "https://github.com/veedstudio/react-autosize-textarea/issues"
   },
   "files": [
     "lib",
@@ -39,7 +39,7 @@
     "styleguide",
     "typings"
   ],
-  "homepage": "https://github.com/buildo/react-autosize-textarea",
+  "homepage": "https://github.com/veedstudio/react-autosize-textarea",
   "devDependencies": {
     "@types/autosize": "3.0.6",
     "@types/jest": "21.1.8",
