@@ -1,6 +1,6 @@
 # React Autosize Textarea
 
-A fork of https://github.com/buildo/react-autosize-textarea that adds support for using react 17 as a peer dep.
+A fork of https://github.com/buildo/react-autosize-textarea that adds support for using react 18 as a peer dep.
 
 A light replacement for built-in `<textarea />` component which automatically adjusts its height to match the content.
 
